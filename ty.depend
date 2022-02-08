@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1642930233 source:c:\users\user\desktop\ty\main.cpp
+	<iostream>
+	<stdexcept>
+	<array>
+	<vector>
+	<stdio.h>
+	<algorithm>
+
